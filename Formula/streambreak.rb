@@ -1,9 +1,9 @@
 class Streambreak < Formula
   desc "Break time content during AI coding waits"
   homepage "https://github.com/rhc98/streambreak"
-  version "0.2.0"
-  url "https://github.com/rhc98/streambreak/releases/download/v0.2.0/streambreak-universal-apple-darwin.tar.gz"
-  sha256 "f4b8ce22902cf006097ac5bbd2be7c189a457538c2f9884e20b337f7672db41b"
+  version "0.2.1"
+  url "https://github.com/rhc98/streambreak/releases/download/v0.2.1/streambreak-universal-apple-darwin.tar.gz"
+  sha256 "100a5115696bdf728f599ec939a95ef580d659151640f406a737ca727ff1d3cc"
 
   def install
     bin.install "streambreak"
